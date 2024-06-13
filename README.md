@@ -1,6 +1,6 @@
-# 💫 About Me:
-I am a physicist with extensive experience in the design and execution of experiments in fluid dynamics, as well as in theoretical modeling. I have advanced programming skills, with a particular focus on simulating low Reynolds number swimmers. Proficient in operating advanced laboratory equipment, such as PIV, and integrating modern technologies for data analysis. I also have experience modifying academic curricula and teaching. /n
-Above all, I am a lover of learning new things every day.
+#  About Me:
+ <span style="color:blue">I am a physicist with extensive experience in the design and execution of experiments in fluid dynamics, as well as in theoretical modeling. I have advanced programming skills, with a particular focus on simulating low Reynolds number swimmers. Proficient in operating advanced laboratory equipment, such as PIV, and integrating modern technologies for data analysis. I also have experience on teaching. Actually. I'm data engineer on Zahoree, my principals responsabilities are backend and implement chatbots on production /n
+Above all, I am a lover of learning new things every day.</span>
 
 
 # 💻 Tech Stack:
