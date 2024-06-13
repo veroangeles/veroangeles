@@ -1,5 +1,6 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxsanFnczdjd2w1MWR5YWZmaHI2aHAwa3FvZ29tbHpwbnF2N242cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" style="width: 50%; height: auto;">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z5cjkyOGViNmd4ZGl1YnJlOWU2NXFxa3cya2hiZnpiZTFrMjQ5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlQCEq4A9H2evVC/giphy.gif style="width: 50%; height: auto;">
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z5cjkyOGViNmd4ZGl1YnJlOWU2NXFxa3cya2hiZnpiZTFrMjQ5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlQCEq4A9H2evVC/giphy.gif" style="width: 50%; height: auto;">
 
 #  About Me:
 <span style="background-color:green">I am a physicist with extensive experience in the design and execution of experiments in fluid dynamics, as well as in theoretical modeling. I have advanced programming skills, with a particular focus on simulating low Reynolds number swimmers. Proficient in operating advanced laboratory equipment, such as PIV, and integrating modern technologies for data analysis. I also have experience on teaching. Actually. I'm data engineer on Zahoree, my principals responsabilities are backend and implement chatbots on production /n
