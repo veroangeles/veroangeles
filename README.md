@@ -2,7 +2,7 @@
 <img src="https://github.com/veroangeles/veroangeles/blob/61839f6d83b22c8b8d84520cb42095fc90b640e3/Screenshot%20from%202024-06-12%2020-58-42.png" style="width:100%; height:20%;">
 
 # 🙇‍♀️ About Me:
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxsanFnczdjd2w1MWR5YWZmaHI2aHAwa3FvZ29tbHpwbnF2N242cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" style="width: 50%;" align="left">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxsanFnczdjd2w1MWR5YWZmaHI2aHAwa3FvZ29tbHpwbnF2N242cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" style="width: 53%;" align="left">
 <body>
 <div align="justify">
 <font size="4">
