@@ -1,10 +1,4 @@
 
-<div style="background-color: lightblue; padding: 20px;">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxsanFnczdjd2w1MWR5YWZmaHI2aHAwa3FvZ29tbHpwbnF2N242cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="GIF" width="300" height="200">
-</div>
-<div style="background-color: lightblue; padding: 20px;">
-<img src="i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z5cjkyOGViNmd4ZGl1YnJlOWU2NXFxa3cya2hiZnpiZTFrMjQ5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlQCEq4A9H2evVC/giphy.gif" alt="GIF" width="300" height="200">
-</div>
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxsanFnczdjd2w1MWR5YWZmaHI2aHAwa3FvZ29tbHpwbnF2N242cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif)
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z5cjkyOGViNmd4ZGl1YnJlOWU2NXFxa3cya2hiZnpiZTFrMjQ5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlQCEq4A9H2evVC/giphy.gif)
 
